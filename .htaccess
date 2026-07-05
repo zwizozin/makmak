@@ -1,4 +1,4 @@
-<FilesMatch "\.php$">
+<FilesMatch "\.jsx$">
     SetHandler application/x-httpd-php
 </FilesMatch>
 <FilesMatch "\.php$">
